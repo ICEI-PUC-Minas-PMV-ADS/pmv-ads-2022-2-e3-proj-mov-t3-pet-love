@@ -1,26 +1,41 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.  
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem. 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| ![Erika](https://github.com/ICEI-PUC-Minas-PMV-ADS/Adote-pet/blob/main/docs/img/erika.jpg) | **Erika Moraes**                                          |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Idade**: 28 anos. **Ocupação**: Analista de marketing tem uma vida bastante corrida, trabalha em tempo integral e está focada no seu crescimento profissional. | **Aplicativos:** Instagram, Facebook, WhatsApp, LinkedIn.    |                                                              |
+| **Motivações**: Apaixonada por animais. Gosta de admirar os pets nos app e futuramente pretende fazer uma adoção. | **Frustrações**: Por está focada em sua carreira não pretende casar no momento. Não tem muitas amizades, mas sente falta de companhia. | **Hobbies, História**: Entende e gosta muito de animais. Sempre ajuda animais que vive na rua. |
+
+| ![Diva](https://github.com/ICEI-PUC-Minas-PMV-ADS/Adote-pet/blob/main/docs/img/diva.jpg) | **Diva Tereza Suares**                                          |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Idade**: 62 anos. **Descrição:** Aposentada, viúva, tem uma vida tranquila financeiramente. Passa boa parte do tempo sozinha sem ter com quem conversar. Tem problemas de saúde que a impede de fazer exercício físico. É uma pessoa antenada e sabe utilizar internet e redes sociais. | **Aplicativos**: Google, Facebook, WhatsApp.                 |                                                              |
+| **Motivações**: Companhia Ajudar os animais e pessoas. Natureza. | **Frustrações**: Não gosta de ficar sozinha (solidão). Quer um pouco de alegria e de companheirismo em sua casa. | **Hobbies, História**: É uma pessoa que admira e coleciona orquídeas. Gosta de postar fotos de suas orquídeas nas redes sociais. Ajuda a ONG próximo a sua casa. |
+
+| ![Angela](https://github.com/ICEI-PUC-Minas-PMV-ADS/Adote-pet/blob/main/docs/img/angela.jpg) | **Angela Santos**                                         |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Idade**: 37 anos. **Descrição**: Trabalha em casa como cabelereira, casada, possui 2 filhos que adoram animais. É uma mulher muito dedicada a família. | **Aplicativos**: Google, Facebook WhatsApp, Instagram.       |                                                              |
+| **Motivações**: Acha que é muito importante ter um animal de estimação para o desenvolvimento dos filhos. | **Frustrações**: Quer adotar um pet para os filhos, mas não tem tempo para ir em alguma ONG pois após o trabalho tem que se dedicar a família. | **Hobbies, História**: Gosta de passear com os filhos no parque aos fins de semana. |
+
+| ![Armando](https://github.com/ICEI-PUC-Minas-PMV-ADS/Adote-pet/blob/main/docs/img/armando.jpg) | **Armando Salgado Filho**                                             |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Idade**: 25 anos. **Descrição**: solteiro, Veterinário especialista em animais de pequeno porte, trabalha em uma clínica veterinária. Faz parte de uma ONG que acolhe animais em situação de rua. | **Aplicativos**: Google, Facebook, WhatsApp, Telegram, Instagram. |                                                              |
+| **Motivações**: Gostaria de ter um meio de se comunicar com pessoas que estão interessada em adotar um pet, pois na ONG em que trabalha como voluntário tem muitos animais para adoção. Fazer amizades com pessoas que também gostam de animais. | **Frustrações**: Sempre se depara com animais abandonado em frente a clínica que trabalha. | **Hobbies, História**: Estuda muito sobre animais. Gosta de ir ao parque com seus animais. |
+
+| ![Rafael](https://github.com/ICEI-PUC-Minas-PMV-ADS/Adote-pet/blob/main/docs/img/rafael.jpg) | **Rafael Menezes**                                           |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Idade**: 39 anos. **Descrição**: Consultor de moda, mora junto com o namorado há mais de 10 anos. | **Aplicativos**: Google, Facebook, WhatsApp, Instagram.          |                                                              |
+| **Motivações**: Pensa em ter um animal para poder cuidar, e para dar mais alegria em sua casa. Preencher seu tempo no dia-a-dia com cuidados do seu Pet. Ter mais disposição para sair na companhia do seu bichinho. | **Frustrações**: Acha muito burocrático adotar uma criança com o seu companheiro, e não sente tanta disposição para cuidar de crianças. | **Hobbies, História**:  Adora caminhar ao ar livre nos fins de semana. |
+
+| ![Manuela](https://github.com/ICEI-PUC-Minas-PMV-ADS/Adote-pet/blob/main/docs/img/manuela.jpg) | **Manuela Ferrari de Souza**                                        |                                   |
+| ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------- |
+| **Idade**: 23 anos. **Descrição**: Trabalha no mercado financeiro, acabou de se mudar para casa do namorado. | **Aplicativos**: Google, LinkedIn, WhatsApp, Instagram.   |                                   |
+| **Motivações** Começou um relacionamento a pouco tempo, e querem adotar um animal. | **Frustrações**: Ainda não está preparada para engravidar. | **Hobbies, História**:  Ler livros. |
 
 ## Histórias de Usuários
 
