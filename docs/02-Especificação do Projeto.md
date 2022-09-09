@@ -184,4 +184,4 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 ## Gestão de Orçamento
 
 
-![Orçamento](img/orcamento.png)
+![Orçamento](img/Orcamento.png)
