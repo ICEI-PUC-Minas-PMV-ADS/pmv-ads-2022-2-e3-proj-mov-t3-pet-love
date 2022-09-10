@@ -10,7 +10,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 | ![Erika](img/erika.jpg) | **Erika Moraes**                                          |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Idade**: 28 anos. **Ocupação**: Analista de marketing tem uma vida bastante corrida, trabalha em tempo integral e está focada no seu crescimento profissional. | **Aplicativos:** Instagram, Facebook, WhatsApp, LinkedIn, waze.    |                                                              |
-| **Motivações**: Trabalha longe de casa, usa seu carro por o trans porte publico e muito lotado. | **Frustrações**: Demora procurando vaga proximo ao trabalho chegando atrasada algumas vezes. Perder muito tempo para estacionar o carro ao ir passear no final de semana. | **Hobbies, História**: Ir a praia na folga e passear no shopping. |
+| **Motivações**: Trabalha longe de casa, usa seu carro por o transporte publico e muito lotado. | **Frustrações**: Demora procurando vaga proximo ao trabalho chegando atrasada algumas vezes. Perder muito tempo para estacionar o carro ao ir passear no final de semana. | **Hobbies, História**: Ir a praia na folga e passear no shopping. |
 
 | ![Diva](img/diva.jpg) | **Diva Tereza Suares**                                          |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -35,25 +35,22 @@ As personas levantadas durante o processo de entendimento do problema são apres
 | ![Manuela](img/manuela.jpg) | **Manuela Ferrari de Souza**                                        |                                   |
 | ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------- |
 | **Idade**: 23 anos. **Descrição**: Trabalha no mercado financeiro, acabou de se mudar para casa do namorado. | **Aplicativos**: Google, LinkedIn, WhatsApp, Instagram.   |                                   |
-| **Motivações**: Apartemento so possui uma vaga no predio e cada um tem seu proprio carro.  | **Frustrações**: dificuldade de localizar uma vaga proxima a sua casa. | **Hobbies, História**:  Ler livros. |
+| **Motivações**: Apartamento so possui uma vaga no predio e cada um tem seu proprio carro.  | **Frustrações**: dificuldade de localizar uma vaga proxima a sua casa. | **Hobbies, História**:  Ler livros. |
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                            |
+|--------------------|------------------------------------|---------------------------------------------------|
+|Erika               | Usar o carro para ir ao trabalho   | Transporte publico demorado e lotado              |
+|Erika               | Achar um meio de localizar vagas   | Perde muito tempo para localizar vaga             |
+|Diva                | Visitar o filho que mora longe     | Dificuldade de achar vaga proximo ao filho        |
+|Angela              | Levar os filhos para se divertir   | Ter mais tempo com os filhos                      |
+|Armando             | Levar o cachorro para brincar      | Não poder levar o animal em qualquer transporte   |
+|Rafael              | Ir a praia no final de semana      | Perde muito tempo para localizar vaga             |
+|Manuela             | Vaga proximo a sua casa            | Só tem uma vaga no predio e o namorado usa        |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 
