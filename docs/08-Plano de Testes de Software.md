@@ -44,12 +44,12 @@
 |    Critérios de Êxito | Ao visualizar localização na tela principal o P deve aparecer em vermelho. |
 
 
-|  CASO DE TESTE |    CT-07 – Adotar Pets   |
+|  CASO DE TESTE |    CT-07 – Adcionar novo de vaga   |
 |     :---:             |     :---:                                              |
-| Requisito Associado | RF-03 A aplicação deve permitir que com um único perfil o usuário possa adotar ou postar um animal para adoção |
-|    Objetivo do Teste  | Verificar se é redirecionado para a página de formulário para adoção.  |
-|    Passos do Teste    | 1. Acessar o aplicativo, 2. Visualizar a página principal, 3. acessar configuração usuario, 4. Selecionar estacionado   |
-|    Critérios de Êxito | Ao selecionar Pet desejado, deve ser redirecionado para a página de formulário de adoção. |
+|  Requisito Associado  | RF-04 A aplicação deve permitir o usuário possa cadastrar novo local de vagas |
+|    Objetivo do Teste  | Verificar se é redirecionado para a página de formulário para cadastro de novas vagas.  |
+|    Passos do Teste    | 1. Acessar o aplicativo, 2. Visualizar a página principal, 3. acessar configuração usuario, 4. selecionar nova vaga, 5. preencher formulario.   |
+|    Critérios de Êxito | Deve ser permitido o preenchimento de todos os campos do formulario de nova vaga. Ao clicar em “Cadastre-se” novo P deve aparecer na localizão informada. |
 
 ## Ferramentas de Testes (Opcional)
 
