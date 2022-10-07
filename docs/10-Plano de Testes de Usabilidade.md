@@ -43,7 +43,7 @@ Além disso, existem **3 motivos básicos** para que você conduza um testes de 
 | -------------------------- | ------------------------------------------------------------ |
 | Perfil                     | Usuário (todos)                                              |
 | Objetivo do Teste          | Concretização da tarefa e satisfação do usuário              |
-| Tarefas a serem realizadas | 1. Acessar a aplicação pelo navegador;                                                                                                         2. Informar endereço do site;                                                                                                                  3. Clicar no botão cadastrar;                                                                                                            4. Preencher o todos os campos do formulário;                                                                              5. Navegue pelo fluxo de cadastro seguindo os passos orientados na tela e clique no ícone para salvar. |
+| Tarefas a serem realizadas | 1. Acessar a aplicação; 2. Clicar no botão usuário; 3. Selecionar cadastrar 4. Preencher o todos os campos do formulário; 5. Navegue pelo fluxo de cadastro seguindo os passos orientados na tela e clique no ícone para salvar. |
 
 
 
@@ -51,7 +51,7 @@ Além disso, existem **3 motivos básicos** para que você conduza um testes de 
 | -------------------------- | ------------------------------------------------------------ |
 | Perfil                     | Usuários cadastrado                                          |
 | Objetivo do Teste          | Efetuar login no sistema                                     |
-| Tarefas a serem realizadas | 1. Acessar a aplicação pelo navegador;                                                                                                         2. Informar endereço do site;                                                                                                                  3. Clicar no ícone de login;                                                                                                                                                        4. Exibir a página de login;                                                                                                                                        5. Preencher os campos indicado;                                                                                                                       6. Clique no botão “Entrar” |
+| Tarefas a serem realizadas | 1. Acessar a aplicação; 2. Clicar no botão usuário; 3. Clicar no ícone de login; 4. Exibir login; 5. Preencher os campos; 6. Clique no botão “Entrar” |
 
 
 
@@ -59,23 +59,23 @@ Além disso, existem **3 motivos básicos** para que você conduza um testes de 
 | -------------------------- | ------------------------------------------------------------ |
 | Perfil                     | Usuário cadastrado e logado                                  |
 | Objetivo do Teste          | Avaliar a funcionalidade editar perfil                       |
-| Tarefas a serem realizadas | 1. Acessar a aplicação pelo navegador;                                                                                                         2. Informar endereço do site;                                                                                                                  3. Fazer login;                                                                                                                                                                     4. Clicar em perfil ao lado da Logo;                                                                                                                    5. Clicar na opção Editar.                                                                                                                               6. Realizar a alteração desejada;                                                                                                                       7. Clicar no ícone de salvar |
+| Tarefas a serem realizadas | 1. Acessar a aplicação; 2. Clicar no botão usuário; 3. Fazer login; 4. Clicar em editar usuário; 5. Realizar a alteração desejada; 6. Clicar no ícone de salvar |
 
 
 
-| Caso de Teste              | CTU 04 - Cadastrar Pet                                       |
+| Caso de Teste              | CTU 04 - Cadastrar nova vaga                                 |
 | -------------------------- | ------------------------------------------------------------ |
 | Perfil                     | Usuário cadastrado e logado                                  |
 | Objetivo do Teste          | Avaliar a funcionalidade editar perfil                       |
-| Tarefas a serem realizadas | 1. Acessar a aplicação pelo navegador;                                                                                                         2. Informar endereço do site;                                                                                                                   3. Fazer login;                                                                                                                                                               4. Clicar no ícone “Pets” ao lado do Perfil                                                                                                         5. Clicar no botão “Cadastrar Pet”                                                                                                               6. Preencher o formulário;                                                                                                                                     7. Clicar no botão “Salvar”. |
+| Tarefas a serem realizadas | 1. Acessar a aplicação; 2. Clicar no botão usuário; 3. Fazer login; 4. Clicar no ícone “adicionar vaga”; 5. Preencher o formulário; 6. Clicar no botão “Salvar”. |
 
 
 
-| Caso de Teste              | CTU 05 - Deletar Cadastro do Pet                             |
+| Caso de Teste              | CTU 05 - Informação de vagas                                 |
 | -------------------------- | ------------------------------------------------------------ |
 | Perfil                     | Usuário cadastrado e logado                                  |
-| Objetivo do Teste          | Avaliar a funcionalidade Deletar Cadastro de Pet             |
-| Tarefas a serem realizadas | 1. Acessar a aplicação pelo navegador;                                                                                                         2. Informar endereço do site;                                                                                                                  3. Fazer login;                                                                                                                                                       4. Clicar no ícone “Pets” ao lado do Perfil                                                                                                                  5. Clicar na opção “Delete”;                                                                                                                                  6. Confirmar a exclusão clicando no ícone ao lado da opção “Voltar” |
+| Objetivo do Teste          | Avaliar a funcionalidade de pesquisar vaga            |
+| Tarefas a serem realizadas | 1. Acessar a aplicação; 2. Fazer login; 3. Pesquisar vaga; 4. visualizar o ícone “P” no local pesquisado e sua respectiva cor, Branco live, amarelo local esatcionado  e vermelho não ha vagas; 5. Clicar n “P”; 6. Visualizar informaçãos do local. |
 
 
 
@@ -83,4 +83,4 @@ Além disso, existem **3 motivos básicos** para que você conduza um testes de 
 | -------------------------- | ------------------------------------------------------------ |
 | Perfil                     | Usuário                                                      |
 | Objetivo do Teste          | Avaliar se a aplicação é responsiva em vários tamanho de tela (smartphones, desktops e tablets) |
-| Tarefas a serem realizadas | 1. Acessar a aplicação pelo navegador;                                                                                                         2. Informar endereço do site;                                                                                                                  3. Fazer login;                                                                                                                                                        4. Verificar se as informações se adaptam ao tamanho da tela de forma organizada. |
+| Tarefas a serem realizadas | 1. Acessar a aplicação; 2. Fazer login; 3. Verificar se as informações se adaptam ao tamanho da tela de forma organizada. |
