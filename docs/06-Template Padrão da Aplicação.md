@@ -4,9 +4,27 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+# Paleta de cores
+
+<br/>
+![Paleta](img/Paleta.png)
+
+## Aplicação nas telas e fluxos
+
+### Tela - Inicial
+
+Na tela inicial vc tera a visão do mapa e das ruas com vaga cadastrada e disponiveis
+
+![mapa](img/Mapa.png)
+
+### Tela - Login e Usuário
+
+Ao tocar no usuario poderá, logar, ver seu perfil e editar perfil
+
+![usuario](img/Usuario.png)
+
+### Tela - Vagas
+
+Ao tocar em uma rua, voçê conseguirá ver a quantidade de vagas e colocar se estacionou ou sair da vaga
+
+![vaga](img/Vaga.png)
