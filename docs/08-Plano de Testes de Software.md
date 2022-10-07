@@ -50,15 +50,3 @@
 |    Objetivo do Teste  | Verificar se é redirecionado para a página de formulário para cadastro de novas vagas.  |
 |    Passos do Teste    | 1. Acessar o aplicativo, 2. Visualizar a página principal, 3. acessar configuração usuario, 4. selecionar nova vaga, 5. preencher formulario.   |
 |    Critérios de Êxito | Deve ser permitido o preenchimento de todos os campos do formulario de nova vaga. Ao clicar em “Cadastre-se” novo P deve aparecer na localizão informada. |
-
-## Ferramentas de Testes (Opcional)
-
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
