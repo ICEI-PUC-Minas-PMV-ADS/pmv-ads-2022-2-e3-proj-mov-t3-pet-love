@@ -22,14 +22,14 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-Inicio
+Inicio <br/>
 ![Wireframe](img/wireframe-1.png)
 
-Aba de vagas
+Aba de vagas <br/>
 ![Wireframe](img/wireframe-2.png)
 
-Login
+Login <br/>
 ![Wireframe](img/wireframe-3.png)
 
-Cadastro
+Cadastro <br/>
 ![Wireframe](img/wireframe-4.png)
