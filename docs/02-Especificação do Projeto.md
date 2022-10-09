@@ -62,11 +62,9 @@ Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o 
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Busca endereço
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
-
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1]()
 
 ### Processo 2 – NOME DO PROCESSO
 
@@ -78,9 +76,9 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 | Indicador | Objetivos | Descrição | Cálculos | Fonte dados | Perspectiva |
 |-----------|-----------|-----------|----------|-------------|-------------|
-| Cadastros Realizados| Analisar o crescimento de usuarios cadastrados | Total de cadastros na platamorma | Mensal | Cadastro usuários plataforma |  |
-| Vagas cadastradas | Almentar a dispnibilidade do serviço | Total de cadastro de vagas | Mensal | Cadastro de vagas plataforma |  |
-| Vagas ocupadas | Analisar o uso da plataforma | total de vagas utulizadas | diario | Contator de vagas |  |
+| Cadastros Realizados| Analisar o crescimento de usuarios cadastrados | Total de cadastros na platamorma | Mensal | Cadastro usuários plataforma | Demanda de dados |
+| Vagas cadastradas | Almentar a dispnibilidade do serviço | Total de cadastro de vagas | Mensal | Cadastro de vagas plataforma | Melhorar serviço |
+| Vagas ocupadas | Analisar o uso da plataforma | total de vagas utulizadas | diario | Contator de vagas | Demanda de dados |
 
 ## Requisitos
 
