@@ -66,11 +66,9 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 ![Processo 1](img/Processo%201.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – VAGA LIVRE
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 2](img/Vaga%20livre.png)
 
 ## Indicadores de Desempenho
 
