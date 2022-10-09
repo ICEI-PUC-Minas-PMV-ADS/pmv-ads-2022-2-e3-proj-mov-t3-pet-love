@@ -75,10 +75,10 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 | Indicador | Objetivos | Descrição | Cálculos | Fonte dados | Perspectiva |
 |-----------|-----------|-----------|----------|-------------|-------------|
 | Cadastros Realizados| Analisar o crescimento de usuarios cadastrados | Total de cadastros na platamorma | Mensal | Cadastro usuários plataforma | Quantidade de usuários |
-| Vagas cadastradas | Almentar a dispnibilidade do serviço | Total de cadastro de vagas | Mensal | Cadastro de vagas plataforma | Melhorar serviço |
+| Vagas cadastradas | Aumentar a dispnibilidade do serviço | Total de cadastro de vagas | Mensal | Cadastro de vagas plataforma | Melhorar serviço |
 | Vagas ocupadas | Analisar o uso da plataforma | Total de vagas utulizadas | Diario | Contator de vagas | Saber usuários utilizando a aplicação |
-| Pesquisas de endereços | Região mais utilizada | Total de peseuisas | Diario | Contador pesquisa | Melhorar serviço |
-|  |  |  |  |  |  |
+| Pesquisas de endereços | Região mais utilizada | Total de pesquisas | Diario | Contador pesquisa | Melhorar serviço |
+| Rua sem vagas | Analisar lotação | Vagas estacionadas | Diario | Vagas ocupadas plataforma | Analisar lotação de vagas |
 
 ## Requisitos
 
