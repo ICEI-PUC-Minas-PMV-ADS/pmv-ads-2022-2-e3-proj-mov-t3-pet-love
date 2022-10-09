@@ -78,7 +78,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 |-----------|-----------|-----------|----------|-------------|-------------|
 | Cadastros Realizados| Analisar o crescimento de usuarios cadastrados | Total de cadastros na platamorma | Mensal | Cadastro usuários plataforma | Demanda de dados |
 | Vagas cadastradas | Almentar a dispnibilidade do serviço | Total de cadastro de vagas | Mensal | Cadastro de vagas plataforma | Melhorar serviço |
-| Vagas ocupadas | Analisar o uso da plataforma | total de vagas utulizadas | diario | Contator de vagas | Demanda de dados |
+| Vagas ocupadas | Analisar o uso da plataforma | total de vagas utulizadas | diario | Contator de vagas | Saber usuários utilizando a aplicação |
 
 ## Requisitos
 
