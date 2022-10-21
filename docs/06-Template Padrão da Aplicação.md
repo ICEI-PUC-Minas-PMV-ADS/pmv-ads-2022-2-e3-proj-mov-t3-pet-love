@@ -6,7 +6,6 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 
 # Paleta de cores
 
-<br/>
 ![Paleta](img/Paleta.png)
 
 ## Aplicação nas telas e fluxos
