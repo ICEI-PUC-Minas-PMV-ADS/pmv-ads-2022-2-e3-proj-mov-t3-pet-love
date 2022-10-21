@@ -4,7 +4,7 @@ const session = require('express-session');
 const path = require('path');
 
 const connection = mysql.createConnection({
-	host     : 'localhost',
+	host     : 'stop',
 	user     : 'root',
 	password : '',
 	database : 'nodelogin'
