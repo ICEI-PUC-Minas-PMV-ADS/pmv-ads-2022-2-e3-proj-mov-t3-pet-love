@@ -1,13 +1,14 @@
 import React from 'react';
 import {View, Text} from 'react-native';
 
-import HomePage from './src/Pages/Homepage'
+import Home from './src/Pages/Home'
 
 const App = () => {
 
   return (
 
-    <HomePage />
+    <Home/>
+    
 
   );
 
