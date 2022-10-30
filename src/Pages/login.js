@@ -13,7 +13,7 @@ const Login = () => {
     <View style={styles.container}> 
 
         <Image
-          source={require('../img/login.png')}
+          source={require('../img/Parenaboalogo.png')}
           style={styles.logo}
         />
       <TextInput
@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
   {
     width: 150,
     height: 150,
-    borderRadius: 100,
+    borderRadius: 150,
   },
   input:
   {
